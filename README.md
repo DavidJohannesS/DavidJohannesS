@@ -47,6 +47,14 @@ At home, I host and manage the following services:
 - **Text generation web ui AI server**: Offline documentation generation
 - **k3d**: Test cluster for fun
 
+### Hardware and File Systems
+- **PC Building**: Extensive experience in building and troubleshooting custom PCs.
+- **Network-Attached Storage (NAS)**: Managing a NAS setup with RAID1 configuration.
+- **Software RAID**: Proficient in setting up and managing software RAID configurations using **mdadm** commands. Familiar with attaching and managing arrays when setting up different distributions.
+- **File Systems**:
+  - **Btrfs**: Knowledgeable in using Btrfs with subvolume snapshots and managing them with Snapper for efficient updates and version control.
+  - **LVM**: Experience with setting up Logical Volume Manager (LVM) partitions, focusing on initial configuration and practical usage.
+
 ## Contact Me
 - [Email](mailto:davidjohannesSD@gmail.com)
 
