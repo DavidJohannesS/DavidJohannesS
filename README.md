@@ -20,6 +20,12 @@ I'm a DevOps enthusiast with a strong background in automation, system administr
 - **Log Analysis**: digging through logs using **grep**, **awk**, and **sed** to find and modify configurations.
 
 
+### Kubernetes Knowledge
+- **Kubernetes Resource Management**: Proficient in managing Kubernetes resources, including roles, role bindings, network policies, ingress services, and persistent volumes etc..
+- **Container Network Interface (CNI)**: Experience with cni's such as Flannel for networking within Kubernetes clusters.
+- **Security Tools**: Familiarity with Gatekeeper for policy enforcement and security.
+- **Beginner Level**: basic foundational knowledge and practical experience in managing Kubernetes clusters.
+
 ### Automation and Configuration Management
 - **Ansible**: Developed comprehensive Ansible playbooks and roles for:
 - **Bash Scripting**: Created various automation scripts, such as untar scripts, and customized my terminal environment using tmux and nvim with extensive configuration.
